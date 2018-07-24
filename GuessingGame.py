@@ -21,7 +21,7 @@ def main():
 def selesai():
   os.system("clear")
   print ("angka anda tepat!")
-  print ("salah: " + str(salah))
+  print ("total salah anda : " + str(salah))
   exit()
 
 main()
